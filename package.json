@@ -1,0 +1,21 @@
+{
+  "name": "sequel-js",
+  "version": "0.0.0",
+  "description": "A JavaScript ORM.",
+  "main": "sequel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.org:/lorddoig/sequel-js.git"
+  },
+  "keywords": [
+    "orm",
+    "sequeljs",
+    "activerecord",
+    "database"
+  ],
+  "author": "Sean Doig <sean.doig@gmail.com>",
+  "license": "MIT"
+}
