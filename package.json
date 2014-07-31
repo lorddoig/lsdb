@@ -1,6 +1,6 @@
 {
     "name": "lsdb",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A JavaScript ORM in TypeScript.",
     "main": "dist/lsdb-browserify.js",
     "scripts": {
